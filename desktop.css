@@ -1,0 +1,60 @@
+
+/*****************************Dekstop  navbar***********************/
+@media (min-width: 700px) {
+.search-bar  {
+  width: 50%;
+  margin-left: 60px;
+}
+
+@media (min-width: 700px) {
+.nav-link {
+font-size: 20px;
+margin: 0 70px 0 20px;
+}
+
+
+@media (min-width: 700px) {
+.form-control {
+  width: 50%;
+  margin-left: 60px;
+}
+
+
+/*****************************Dekstop forside************************/
+
+@media (min-width: 700px) {
+.front-banner {
+  width: 450px;
+  height: auto;
+  margin-top: 70px;
+  margin: 40px 70px 0 70px;
+}
+
+
+@media (min-width: 700px) {
+.title-frontpage .title-contact .title-blog {
+  width: 100%;
+}
+
+
+@media (min-width: 700px) {
+.btn-homepage  {
+  width: 70%;
+}
+
+
+@media (min-width: 700px) {
+.heading-features {
+  padding-top: 20px;
+}
+
+
+@media (min-width: 700px) {
+.features {
+  padding-bottom: 80px;
+}
+
+@media (min-width: 700px) {
+.navbar-page {
+  margin-top: -30px;
+}
