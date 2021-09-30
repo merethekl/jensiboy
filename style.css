@@ -121,11 +121,11 @@ font-size: 29px;
 	color:#fff!important;
 	font-family:Lato;
 	font-size:20px;
-	padding:20px 120px;
+	padding:20px 90px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;
   margin: 30px 0 30px;
-  width: 100%;
+  width: 90%;
   position: relative;
 
 }
@@ -138,10 +138,10 @@ font-size: 29px;
 
 
 .front-banner {
-width: 351px;
-height: 280px;
-margin: 0;
-display: block;
+width: 334px;
+height: 314px;
+margin: auto;
+display: flex;
 }
 
 #front-page-banner {
