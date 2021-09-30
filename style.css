@@ -298,14 +298,14 @@ hr.contact {
   margin: 0 20px 20px 0;
 }
 
-.BackToTop {
-  text-align: right;
-  margin: 0 20px 20px 0;
-}
-
 .BackToTop a:link {
   color: #333!important;
 }
+
+.BackToTop a:visited {
+  color: #333!important;
+}
+
 
 
 .categories-section, a:visited {
