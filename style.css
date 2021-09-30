@@ -212,17 +212,13 @@ padding: 20px 0 20px 0;
   font-size: 18px;
 }
 
-.footer, a:link {
-  color: #FFF;
+.footer-contact a:link {
+  color: #FFF!important;
 }
 
 
-.footer, a:hover {
-  color: #268C7E
-}
-
-.footer, a:active {
-  color: #C0F0FC
+.footer-contact a:visited {
+  color: #FFF!important;
 }
 
 .copyright {
@@ -300,6 +296,15 @@ hr.contact {
 .BackToTop {
   text-align: right;
   margin: 0 20px 20px 0;
+}
+
+.BackToTop {
+  text-align: right;
+  margin: 0 20px 20px 0;
+}
+
+.BackToTop a:link {
+  color: #333!important;
 }
 
 
