@@ -212,10 +212,9 @@ padding: 20px 0 20px 0;
   font-size: 18px;
 }
 
-.footer-contact a:link {
-  color: lightblue;
+.footer, a:link {
+  color: #FFF;
 }
-
 
 
 .footer, a:hover {
